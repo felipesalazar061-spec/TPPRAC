@@ -235,6 +235,8 @@ function tieneTresDigitos(numero){
   function tieneTresDigitos(numero) {
   return numero >= 100 && numero <= 999;
 }
+
+
 }
 
 function doWhile(numero) {
